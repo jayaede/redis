@@ -33,4 +33,4 @@ app.get('/delete',(req,res)=>{
     res.json({done:"true"})
 })
         
-app.listen(4000,()=>console.log('listining...'));
+app.listen(4000,()=>console.log('listining 4000...'));
